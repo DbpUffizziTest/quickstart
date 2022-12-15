@@ -16,7 +16,7 @@ Select **Actions**, then select **I understand my workflows, go ahead and enable
 
 ### 3. Open a pull request for `try-uffizzi` branch against `main` in your fork  
 
-Be sure that you're opening a PR on the branches of _your fork_ (i.e. `your-account/main` ← `your-account/try-uffizzi`). If you try to open a PR for `UffizziCloud/main` ← `your-account/try-uffizzi`, the Actions workflow will not run.   
+Be sure that you're opening a PR on the branches of _your fork_ (i.e. `your-account/main` ← `your-account/try-uffizzi`). If you try to open a PR for `UffizziCloud/main` ← `your-account/try-uffizzi`, the Actions workflow will not run..   
 
 That's it! This will kick off a GitHub Actions workflow and post the Preview Environment URL as a comment to your PR issue. 
 
