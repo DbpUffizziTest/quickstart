@@ -40,7 +40,7 @@ Previews are configured with a [Docker Compose template](docker-compose.uffizzi.
 (3) [Download and extract the Docker Compose artifact](https://github.com/UffizziCloud/quickstart/blob/0b8e9aaf641924d93edc753e051928e95f3e7ef4/.github/workflows/uffizzi-preview.yaml#L11-L68)  
 (4) [Deploy the application to a Uffizzi Preview Environment](https://github.com/UffizziCloud/quickstart/blob/5699f461f752b0bd787d69abc2cfad3b79e0308b/.github/workflows/uffizzi-preview.yaml#L158-L171) and post a comment to the PR issue.  
 
-[Delete the Preview Environment](https://github.com/UffizziCloud/quickstart/blob/0b8e9aaf641924d93edc753e051928e95f3e7ef4/.github/workflows/build-images.yaml#L161-L174), if the pull request is closed.
+[Delete the Preview Environment](https://github.com/UffizziCloud/quickstart/blob/0b8e9aaf641924d93edc753e051928e95f3e7ef4/.github/workflows/build-images.yaml#L161-L174), if the pull request is closed..
 
 ### Uffizzi Cloud
 
