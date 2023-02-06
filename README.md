@@ -1,5 +1,7 @@
 # Uffizzi Quickstart (~ 1 minute)
 
+[![Demo](https://cdn.uffizzi.com/demo-button.svg)](https://app.uffizzi.com/demo/github.com/DbpUffizziTest/hello-world-1)
+
 Go from pull request to Uffizzi Preview Environment in less than one minute...
 
 ### 1. Fork this repo  
